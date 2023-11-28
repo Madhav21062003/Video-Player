@@ -5,7 +5,7 @@
 <b>Simple Yet A Feature Rich Video Player Application.</b><br>
 
 <b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
-  <br>https://drive.google.com/file/d/13DA1aD8fBDmge1NqBnoR37ydRLHh5AiK/view?usp=sharing (v1.0.6)
+  <br>https://drive.google.com/file/d/1xCXi4WNLowCrJO2S7f30ZtskozU68rDR/view?usp=drivesdk (v1.0.6)
 
 Some ScreenShots 😃:</br>
 <img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/7.png" width=45% height=30%/>
@@ -39,9 +39,6 @@ Some ScreenShots 😃:</br>
 <li>And Much More....
 </ul>
   
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hybPU7Q4SmNhTbcEdHW9DOgr
-  <br><br>
-  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project.
 
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
+
+For Feedback or Suggestions Mail Me At madhav09solankicom 🙂
