@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.app.Activity
@@ -23,10 +23,11 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.google.android.material.color.MaterialColors
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.harshRajpurohit.videoPlayer.databinding.DetailsViewBinding
-import com.harshRajpurohit.videoPlayer.databinding.RenameFieldBinding
-import com.harshRajpurohit.videoPlayer.databinding.VideoMoreFeaturesBinding
-import com.harshRajpurohit.videoPlayer.databinding.VideoViewBinding
+import com.harshRajpurohit.videoplayer.R
+import com.harshRajpurohit.videoplayer.databinding.DetailsViewBinding
+import com.harshRajpurohit.videoplayer.databinding.RenameFieldBinding
+import com.harshRajpurohit.videoplayer.databinding.VideoMoreFeaturesBinding
+import com.harshRajpurohit.videoplayer.databinding.VideoViewBinding
 import java.io.File
 
 class VideoAdapter(private val context: Context, private var videoList: ArrayList<Video>, private var isFolder: Boolean = false)

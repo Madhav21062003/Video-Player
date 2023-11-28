@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -8,7 +8,7 @@ import android.provider.MediaStore
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.harshRajpurohit.videoPlayer.databinding.ActivityFoldersBinding
+import com.harshRajpurohit.videoplayer.databinding.ActivityFoldersBinding
 import java.io.File
 
 class FoldersActivity : AppCompatActivity() {

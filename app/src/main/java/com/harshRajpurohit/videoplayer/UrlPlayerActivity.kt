@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.os.Build
 import android.os.Bundle
@@ -13,7 +13,9 @@ import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.ui.AspectRatioFrameLayout
 import com.google.android.material.snackbar.Snackbar
+import com.harshRajpurohit.videoPlayer.R
 import com.harshRajpurohit.videoPlayer.databinding.ActivityUrlPlayerBinding
+
 
 
 class UrlPlayerActivity : AppCompatActivity() {

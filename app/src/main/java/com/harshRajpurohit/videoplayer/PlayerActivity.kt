@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.app.AlertDialog
@@ -19,7 +19,6 @@ import android.os.Bundle
 import android.os.Environment
 import android.provider.DocumentsContract
 import android.provider.MediaStore
-import android.util.Log
 import android.view.*
 import android.widget.CheckBox
 import android.widget.ImageButton
@@ -41,11 +40,12 @@ import com.google.android.exoplayer2.ui.DefaultTimeBar
 import com.google.android.exoplayer2.ui.TimeBar
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.videoPlayer.PlayerActivity.Companion.playerList
-import com.harshRajpurohit.videoPlayer.databinding.ActivityPlayerBinding
-import com.harshRajpurohit.videoPlayer.databinding.BoosterBinding
-import com.harshRajpurohit.videoPlayer.databinding.MoreFeaturesBinding
-import com.harshRajpurohit.videoPlayer.databinding.SpeedDialogBinding
+
+import com.harshRajpurohit.videoplayer.R
+import com.harshRajpurohit.videoplayer.databinding.ActivityPlayerBinding
+import com.harshRajpurohit.videoplayer.databinding.BoosterBinding
+import com.harshRajpurohit.videoplayer.databinding.MoreFeaturesBinding
+import com.harshRajpurohit.videoplayer.databinding.SpeedDialogBinding
 import java.io.File
 import java.text.DecimalFormat
 import java.util.*

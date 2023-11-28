@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.content.Context

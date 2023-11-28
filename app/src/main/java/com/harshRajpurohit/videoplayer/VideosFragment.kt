@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -7,7 +7,8 @@ import android.view.*
 import androidx.appcompat.widget.SearchView
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.harshRajpurohit.videoPlayer.databinding.FragmentVideosBinding
+import com.harshRajpurohit.videoplayer.R
+import com.harshRajpurohit.videoplayer.databinding.FragmentVideosBinding
 
 
 class VideosFragment : Fragment() {

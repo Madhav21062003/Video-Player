@@ -1,9 +1,9 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.harshRajpurohit.videoPlayer.databinding.ActivityAboutBinding
+import com.harshRajpurohit.videoplayer.databinding.ActivityAboutBinding
 
 class AboutActivity : AppCompatActivity() {
     @SuppressLint("SetTextI18n")

@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.content.Intent
 import android.graphics.Color
@@ -9,7 +9,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.browser.customtabs.CustomTabsIntent
 import com.google.android.material.color.MaterialColors
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.videoPlayer.databinding.ActivityUrlBinding
+import com.harshRajpurohit.videoplayer.R
+
+import com.harshRajpurohit.videoplayer.databinding.ActivityUrlBinding
 
 
 

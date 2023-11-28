@@ -1,4 +1,4 @@
-package com.harshRajpurohit.videoPlayer
+package com.madhavsolanki.videoPlayer
 
 import android.Manifest.permission.READ_EXTERNAL_STORAGE
 import android.Manifest.permission.WRITE_EXTERNAL_STORAGE
@@ -22,8 +22,9 @@ import androidx.fragment.app.Fragment
 import com.google.android.material.color.MaterialColors
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.videoPlayer.databinding.ActivityMainBinding
-import com.harshRajpurohit.videoPlayer.databinding.ThemeViewBinding
+import com.harshRajpurohit.videoplayer.R
+import com.harshRajpurohit.videoplayer.databinding.ActivityMainBinding
+import com.harshRajpurohit.videoplayer.databinding.ThemeViewBinding
 import kotlin.system.exitProcess
 
 class MainActivity : AppCompatActivity() {
