@@ -8,7 +8,8 @@ import android.provider.MediaStore
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.harshRajpurohit.videoplayer.databinding.ActivityFoldersBinding
+import com.harshRajpurohit.videoPlayer.databinding.ActivityFoldersBinding
+
 import java.io.File
 
 class FoldersActivity : AppCompatActivity() {

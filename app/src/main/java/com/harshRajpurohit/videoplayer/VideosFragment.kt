@@ -7,8 +7,8 @@ import android.view.*
 import androidx.appcompat.widget.SearchView
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.harshRajpurohit.videoplayer.R
-import com.harshRajpurohit.videoplayer.databinding.FragmentVideosBinding
+import com.harshRajpurohit.videoPlayer.R
+import com.harshRajpurohit.videoPlayer.databinding.FragmentVideosBinding
 
 
 class VideosFragment : Fragment() {

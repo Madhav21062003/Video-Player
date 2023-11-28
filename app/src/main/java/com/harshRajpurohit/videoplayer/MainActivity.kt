@@ -22,9 +22,10 @@ import androidx.fragment.app.Fragment
 import com.google.android.material.color.MaterialColors
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
-import com.harshRajpurohit.videoplayer.R
-import com.harshRajpurohit.videoplayer.databinding.ActivityMainBinding
-import com.harshRajpurohit.videoplayer.databinding.ThemeViewBinding
+import com.harshRajpurohit.videoPlayer.R
+import com.harshRajpurohit.videoPlayer.databinding.ActivityMainBinding
+import com.harshRajpurohit.videoPlayer.databinding.ThemeViewBinding
+
 import kotlin.system.exitProcess
 
 class MainActivity : AppCompatActivity() {
