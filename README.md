@@ -41,4 +41,4 @@ Some ScreenShots 😃:</br>
   
 
 
-For Feedback or Suggestions Mail Me At madhav09solankicom 🙂
+For Feedback or Suggestions Mail Me At madhav09solanki@gmail.com 🙂
